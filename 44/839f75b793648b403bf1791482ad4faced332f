@@ -1,0 +1,72 @@
+python/01-tutorials/01-agentkit-runtime/image_video_tools/README_en.md
+  h_b23a6a8439c0dd 353
+python/02-use-cases/ai_coding/README_en.md
+  h_b23a6a8439c0dd 18,75,84,87,93,103
+python/01-tutorials/01-agentkit-runtime/mcp_simple/README_en.md
+  h_b23a6a8439c0dd 205
+python/02-use-cases/store_inspection_assistant/README_en.md
+  h_b23a6a8439c0dd 172 gitai:{"mixed_line_ranges":[{"Single":172}],"operations":[]}
+python/01-tutorials/01-agentkit-runtime/multi_agents/README_en.md
+  h_b23a6a8439c0dd 487
+python/01-tutorials/04-agentkit-tools/skills_sandbox/README_en.md
+  h_b23a6a8439c0dd 166,248 gitai:{"mixed_line_ranges":[{"Single":166},{"Single":248}],"operations":[]}
+python/01-tutorials/01-agentkit-runtime/a2a_simple/README_en.md
+  h_b23a6a8439c0dd 405
+python/02-use-cases/customer_support/README_en.md
+  h_b23a6a8439c0dd 17,37,84,87,92,104,156,219,263,275,289
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "44839f75b793648b403bf1791482ad4faced332f",
+  "prompts": {},
+  "humans": {
+    "h_b23a6a8439c0dd": {
+      "author": "unknown"
+    },
+    "h_db72bf3517436a": {
+      "author": "yuanpeng-zhu <2383994136@qq.com>"
+    }
+  },
+  "attestation_metadata": {
+    "python/01-tutorials/04-agentkit-tools/skills_sandbox/README_en.md": [
+      {
+        "hash": "h_b23a6a8439c0dd",
+        "line_ranges": [
+          {
+            "Single": 166
+          },
+          {
+            "Single": 248
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Single": 166
+          },
+          {
+            "Single": 248
+          }
+        ],
+        "operations": []
+      }
+    ],
+    "python/02-use-cases/store_inspection_assistant/README_en.md": [
+      {
+        "hash": "h_b23a6a8439c0dd",
+        "line_ranges": [
+          {
+            "Single": 172
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Single": 172
+          }
+        ],
+        "operations": []
+      }
+    ]
+  },
+  "remote_transcripts": {}
+}
