@@ -1,0 +1,29 @@
+skills/tos-file-access/SKILL.md
+  h_db72bf3517436a 3,9,13,102,115,117,166-169,219
+skills/tos-file-access/scripts/tos_upload.py
+  h_db72bf3517436a 16,34,109,137,143,165,284,446,452
+  s_b56d32b699d9bb::t_8e0771db158811 62-82,86,98,110-111,133-136,138-139,142,145,156,162,166-167,235,247,258-260,281-283,285-287,291,305,311,314-316,350,353,386,455,462,464-466,478-479
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c85e4c333f38119ade8d72d60f193970a8038a3f",
+  "prompts": {},
+  "humans": {
+    "h_db72bf3517436a": {
+      "author": "yuanpeng-zhu <2383994136@qq.com>"
+    }
+  },
+  "sessions": {
+    "s_b56d32b699d9bb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f69b6-01a5-7670-9747-2ef9a7c165ce",
+        "model": "unknown"
+      },
+      "human_author": "yuanpeng-zhu <2383994136@qq.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
